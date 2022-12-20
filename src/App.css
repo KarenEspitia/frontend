@@ -1,0 +1,30 @@
+.color-principal{
+  background-color: #ffe9f7;
+
+}
+
+.color-secundario{
+  background-color: #d5edfa;
+}
+
+.text-principal{
+  font-family:'montserrat';
+  font-weight: 400;
+  color: rgb(66, 66, 66);
+}
+
+h5{
+  font-weight: 500;
+  font-family: 'montserrat';
+}
+
+body{
+  font-family:'montserrat';
+  color: rgb(66, 66, 66);
+}
+
+.categoria{
+  background-color: #1d6991;
+  color: white;
+}
+
